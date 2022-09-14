@@ -22,3 +22,4 @@
 
 ## Bezpieczeństwo (coś o uprawnieniach)
 todo Uprawnienia
+## [Diagram ukazujący schemat działania flow](https://evatronix-my.sharepoint.com/:u:/p/slawomir_zyla/EdyBaoCOFFJCrlYMgJ33yJgBpljSFizM_o_xBd4VC2TB4A?e=gSnKod)
