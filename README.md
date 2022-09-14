@@ -8,6 +8,8 @@
   Przepływ przesyła informacje o złożonym (poprzez formularz) zapotrzebowaniu odpowiedniej osobie (przełożonemu danej osoby lub bezpośrednio Prezesowi w zależności od kwoty zapotrzebowania) i po podjęciu decyzji (akceptacji/odrzuceniu), dane zapotrzebowanie trafia do osoby z Działu Logistyki (w zależności od działu którym takowa osoba się zajmuje) w celu realizacji już zaakceptowanego zapotrzebowania lub gdy zapotrzebowanie zostanie odrzucone, trafia ono do Archiwizacji ze statusem "Odrzucone". Osoba składająca dane zapotrzebowanie jest informowana na bieżąco o statusie swojego zapotrzebowania poprzez SharePoint'ową listę "Status" oraz w każdym znaczącym momencie jest informowana poprzez mail o postępie w realizacji (potwierdzenie złożenia zapotrzebowania/zaakceptowanie zapotrzebowania/odrzucenie zapotrzebowania).
   Dodatkowo w przepływie zawarta jest przypominajka, której celem jest mailowe  przypominanie  przełożonemu o złożonych zapotrzebowaniach oczekujących na decyzję.
 
+  [Diagram ukazujący schemat działania flow](https://evatronix-my.sharepoint.com/:u:/p/slawomir_zyla/EdyBaoCOFFJCrlYMgJ33yJgBpljSFizM_o_xBd4VC2TB4A?e=gSnKod)
+
 ## Architektura systemu (z czego się składa i szczegółowy opis działania) 
 
   Przepływ Działu Logistyki składa się z trzech osobnych przepływów (rozdzielenie etapów przepływu w celu łatwiejszej diagnostyki w razie wystąpienia problemu po stronie programu):
@@ -22,4 +24,3 @@
 
 ## Bezpieczeństwo (coś o uprawnieniach)
 todo Uprawnienia
-## [Diagram ukazujący schemat działania flow](https://evatronix-my.sharepoint.com/:u:/p/slawomir_zyla/EdyBaoCOFFJCrlYMgJ33yJgBpljSFizM_o_xBd4VC2TB4A?e=gSnKod)
