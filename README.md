@@ -16,5 +16,6 @@
    2. System powiadomień
    3. Płatności
    4. Realizacja
+   5. Archiwizacja
 
 ## Bezpieczeństwo (coś o uprawnieniach)
