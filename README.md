@@ -14,4 +14,6 @@ Architektura systemu (z czego się składa i szczegółowy opis działania)
    2. Przypominajka
    3. Realizacja
 
-Bezpieczeństwo (coś o uprawnieniach) 
+Bezpieczeństwo (coś o uprawnieniach)
+
+TEST
