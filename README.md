@@ -18,12 +18,15 @@
       Przepływ jest uruchamiany w momencie przesłania formularza (Plumsail) dostępnego na stronie Działu Logistyki w Moje Zapotrzebowania→Złóż zapotrzebowanie. Następnie pobierane są dane użytkownika składającego zapotrzebowanie z konta Microsoft Office 365. Po potwierdzeniu, że dana osoba jest pracownikiem firmy następuje analiza produktów konkretnego zapotrzebowania i utworzenie ich na SharePoint'owej liście "Produkty Zapotrzebowania". W tym miejscu również następuje wyliczenie kosztu całkowitego zapotrzebowania. Po skompletowaniu wszystkich danych dotyczących wszystkich produktów z zapotrzebowania następuje sprawdzenie, czy koszt całkowity zapotrzebowania przekracza "maksymalny koszt dla przełożonego" - jest to zmienna, której wartość w każdej chwili można dostosować bezpośrednio przez uprawnione osoby z poziomu SharePoint'owej listy "dev_settings" i której zadanie polega na określeniu powyżej jakiej kwoty całkowitej zapotrzebowania, mail odnośnie decyzji akceptacji/odrzucenia powinien przyjść bezpośrednio do Prezesa lub do przełożonego danej osoby. W przypadku gdy dana osoba nie posiada przypisanego przełożonego za takowego uznaje się Prezesa. Następnie na SharePoint'owej liście "Składanie zapotrzebowania" tworzone jest zapotrzebowanie po utworzeniu którego wysyłany jest mail z potwierdzeniem do osoby składającej zapotrzebowanie oraz osobny do przełożonego o pojawieniu się nowego zapotrzebowania do rozpatrzenia.
 
    2. System powiadomień
-   3. Płatności
+   3. Kontrola płatności
+
    4. Realizacja
 
       Przepływ uruchamiany jest w momencie modyfikacji zapotrzebowania na SharePoint'owej liście "Składanie zapotrzebowania". Pobierane są wszystkie informacje dotyczące konkretnego zapotrzebowania o przypisanym mu identyfikatorze. Na liście "dev_settings" do każdego działu firmy przypisana jest odpowiednia osoba, która się nim zajmuje. W przepływie sprawdzana jest dana modyfikacja: czy jest to Akceptacja czy też Odrzucenie. W przypadku akceptacji pobierana jest informacja o dziale, z którego pracownik złożył zapotrzebowanie i w zależności od przypisanej do niego osobie z Działu Logistyki, takowej osobie wysyłany jest mail z informacją o już zaakceptowanym zapotrzebowaniu oczekującym na realizacje. W przypadku odrzucenia zapotrzebowanie trafia na liste "Odrzucone" ze statusem "Odrzucone" (Archiwizacja).
       
    5. Archiwizacja
+   todo Archiwizacja
 
 ## Bezpieczeństwo (coś o uprawnieniach)
 todo Uprawnienia
+## 
