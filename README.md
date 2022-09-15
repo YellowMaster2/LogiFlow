@@ -37,6 +37,6 @@
 todo Uprawnienia
 ## Instrukcja obsługi
 ##### 1. Składanie zapotrzebowania
-W celu złożenia zapotrzebowania należy wejść na stronę główną <a href="https://evatronix.sharepoint.com/sites/Logistyka" target="_blank">Działu logistyki</a>
+W celu złożenia zapotrzebowania należy wejść na stronę główną <a href="https://evatronix.sharepoint.com/sites/Logistyka" target="_blank" rel="noopener">Działu logistyki</a>
 ##### 2. Akceptacja zapotrzebowania
 ##### 3. Realizacja zapotrzebowania
