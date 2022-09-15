@@ -37,13 +37,19 @@
 todo Uprawnienia
 ## Instrukcja obsługi
 ##### 1. Składanie zapotrzebowania
-W celu złożenia zapotrzebowania należy wejść na stronę główną [Działu logistyki](https://evatronix.sharepoint.com/sites/Logistyka "Przejdź na stronę Działu logistyki")
-Następnie wejść w "Moje zapotrzebowania
+1. W celu złożenia zapotrzebowania należy wejść na stronę główną [Działu logistyki](https://evatronix.sharepoint.com/sites/Logistyka "Przejdź na stronę Działu logistyki"), a następnie wejść w "Moje zapotrzebowania.
 
 ![image](https://github.com/YellowMaster2/LogiFlow/blob/main/media/3.png?raw=true)
 
+2. Następnie należy nacisnąć przycisk "Złóż zapotrzebowanie".
+
 ![image](https://github.com/YellowMaster2/LogiFlow/blob/main/media/4.png?raw=true)
 
+3. Po przekierowaniu na stronę internetową formularza, należy zalogować się na służbowe konto Office 365.
+
 ![image](https://github.com/YellowMaster2/LogiFlow/blob/main/media/5.png?raw=true)
+
+4. Po zalogowaniu się na konto należy podążać za instrukcjami zawartymi w formularzu.
+5. Po wypełnieniu i wysłaniu formularza, na skrzynkę pocztową trafi e-mail z potwierdzeniem złożenia zapotrzebowania.
 ##### 2. Akceptacja zapotrzebowania
 ##### 3. Realizacja zapotrzebowania
