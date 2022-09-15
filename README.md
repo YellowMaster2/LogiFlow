@@ -56,3 +56,4 @@ todo Uprawnienia
 
 ##### 2. Akceptacja zapotrzebowania
 ##### 3. Realizacja zapotrzebowania
+##### 4. Kontrola płatności
