@@ -38,4 +38,6 @@
 ## Bezpieczeństwo (coś o uprawnieniach)
 todo Uprawnienia
 ## Instrukcja obsługi
-##### - Składanie zapotrzebowania
+##### 1. Składanie zapotrzebowania
+##### 2. Akceptacja zapotrzebowania
+##### 3. Realizacja zapotrzebowania
