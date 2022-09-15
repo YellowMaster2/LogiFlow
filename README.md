@@ -38,6 +38,12 @@ todo Uprawnienia
 ## Instrukcja obsługi
 ##### 1. Składanie zapotrzebowania
 W celu złożenia zapotrzebowania należy wejść na stronę główną [Działu logistyki](https://evatronix.sharepoint.com/sites/Logistyka "Przejdź na stronę Działu logistyki")
+Następnie wejść w "Moje zapotrzebowania
+
 ![image](https://github.com/YellowMaster2/LogiFlow/blob/main/media/3.png?raw=true)
+
+![image](https://github.com/YellowMaster2/LogiFlow/blob/main/media/4.png?raw=true)
+
+![image](https://github.com/YellowMaster2/LogiFlow/blob/main/media/5.png?raw=true)
 ##### 2. Akceptacja zapotrzebowania
 ##### 3. Realizacja zapotrzebowania
