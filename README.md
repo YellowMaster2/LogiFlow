@@ -53,5 +53,6 @@ todo Uprawnienia
 
 4. Po zalogowaniu się na konto należy podążać za instrukcjami zawartymi w formularzu.
 5. Po wypełnieniu i wysłaniu formularza, na skrzynkę pocztową trafi e-mail z potwierdzeniem złożenia zapotrzebowania.
+
 ##### 2. Akceptacja zapotrzebowania
 ##### 3. Realizacja zapotrzebowania
