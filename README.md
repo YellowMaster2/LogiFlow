@@ -15,8 +15,10 @@
   Przepływ Działu Logistyki składa się z kilku osobnych przepływów (rozdzielenie etapów przepływu w celu łatwiejszej diagnostyki w razie wystąpienia problemu po stronie programu):
    1. Składanie zapotrzebowania
 
-      Przepływ jest uruchamiany w momencie przesłania formularza (Plumsail) dostępnego na stronie Działu Logistyki w Moje Zapotrzebowania→Złóż zapotrzebowanie. Następnie pobierane są dane użytkownika składającego zapotrzebowanie z konta Microsoft Office 365. Po potwierdzeniu, że dana osoba jest pracownikiem firmy następuje analiza produktów konkretnego zapotrzebowania i utworzenie ich na SharePoint'owej liście "Produkty Zapotrzebowania". W tym miejscu również następuje wyliczenie kosztu całkowitego zapotrzebowania. Po skompletowaniu wszystkich danych dotyczących wszystkich produktów z zapotrzebowania następuje sprawdzenie, czy koszt całkowity zapotrzebowania przekracza "maksymalny koszt dla przełożonego" - jest to zmienna, której wartość w każdej chwili można dostosować bezpośrednio przez uprawnione osoby z poziomu SharePoint'owej listy "dev_settings" i której zadanie polega na określeniu powyżej jakiej kwoty całkowitej zapotrzebowania, mail odnośnie decyzji akceptacji/odrzucenia powinien przyjść bezpośrednio do Prezesa lub do przełożonego danej osoby. W przypadku gdy dana osoba nie posiada przypisanego przełożonego za takowego uznaje się Prezesa. Następnie na SharePoint'owej liście "Składanie zapotrzebowania" tworzone jest zapotrzebowanie po utworzeniu którego wysyłany jest mail z potwierdzeniem do osoby składającej zapotrzebowanie oraz osobny do przełożonego o pojawieniu się nowego zapotrzebowania do rozpatrzenia.
+      Przepływ jest uruchamiany w momencie przesłania formularza (Plumsail) dostępnego na stronie Działu Logistyki w Moje Zapotrzebowania→Złóż zapotrzebowanie.
       ![image](https://github.com/YellowMaster2/LogiFlow/blob/main/media/2.png?raw=true)
+
+       Następnie pobierane są dane użytkownika składającego zapotrzebowanie z konta Microsoft Office 365. Po potwierdzeniu, że dana osoba jest pracownikiem firmy następuje analiza produktów konkretnego zapotrzebowania i utworzenie ich na SharePoint'owej liście "Produkty Zapotrzebowania". W tym miejscu również następuje wyliczenie kosztu całkowitego zapotrzebowania. Po skompletowaniu wszystkich danych dotyczących wszystkich produktów z zapotrzebowania następuje sprawdzenie, czy koszt całkowity zapotrzebowania przekracza "maksymalny koszt dla przełożonego" - jest to zmienna, której wartość w każdej chwili można dostosować bezpośrednio przez uprawnione osoby z poziomu SharePoint'owej listy "dev_settings" i której zadanie polega na określeniu powyżej jakiej kwoty całkowitej zapotrzebowania, mail odnośnie decyzji akceptacji/odrzucenia powinien przyjść bezpośrednio do Prezesa lub do przełożonego danej osoby. W przypadku gdy dana osoba nie posiada przypisanego przełożonego za takowego uznaje się Prezesa. Następnie na SharePoint'owej liście "Składanie zapotrzebowania" tworzone jest zapotrzebowanie po utworzeniu którego wysyłany jest mail z potwierdzeniem do osoby składającej zapotrzebowanie oraz osobny do przełożonego o pojawieniu się nowego zapotrzebowania do rozpatrzenia.
 
    2. System powiadomień
    3. Kontrola płatności
@@ -30,4 +32,5 @@
 
 ## Bezpieczeństwo (coś o uprawnieniach)
 todo Uprawnienia
-## 
+## Instrukcja obsługi
+##### - Składanie zapotrzebowania
