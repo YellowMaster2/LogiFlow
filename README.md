@@ -37,6 +37,5 @@
 todo Uprawnienia
 ## Instrukcja obsługi
 ##### 1. Składanie zapotrzebowania
-
 ##### 2. Akceptacja zapotrzebowania
 ##### 3. Realizacja zapotrzebowania
