@@ -23,8 +23,10 @@
 
    2. System powiadomień
    3. Kontrola płatności
-   4. System powiadomień todo
-   5. Kontrola płatności todo
+   4. System powiadomień 
+   todo
+   5. Kontrola płatności 
+   todo
    
    6. Realizacja
 
