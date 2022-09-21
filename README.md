@@ -58,6 +58,7 @@ todo Uprawnienia
 2. Na liście wystarczy kliknąć na kolumne "Akceptacja" przy konkretnym zaapotrzebowaniu następnie przejść wiersz niżej aby stan mógł się zapisać. Po udanej akceptacji cały wiersz podświetla się na kolor zielony.
 <image>
 3. Po akceptacji do osoby składającej zapotrzebowanie przychodzi mail z informacją o pozytywnym rozpatrzeniu owego zapotrzebowania.
+
 ##### 3. Realizacja zapotrzebowania (dział Logistyki)
 1. Po zaakceptowaniu zapotrzebowania tworzone jest ono na liście "Realizacja", gdzie wyświetlane są one osobom z działu Logistyki w zależności od tego jakim działem się zajmują.
 <image>
@@ -67,8 +68,9 @@ todo Uprawnienia
 <image>
 4. Gdy zapotrzebowanie zostanie Zamówione, Opłacone i Dostarczone zaznaczamy kolumny Zamówione, Opłacone i Dostarczone (zaznaczenie na kolor zielony).
 <image>
+
 ##### 4. Statusy
-1. Dostępne są poprzez wejście na stronie głównej [Działu logistyki](https://evatronix.sharepoint.com/sites/Logistyka "Przejdź na stronę Działu logistyki"), a następnie klikając w "Moje zapotrzebowania".
+1. Dostępne są poprzez wejście na stronie głównej działu Logistyki, a następnie klikając w "Moje zapotrzebowania".
 <image>
 2. Gdy zapotrzebowanie jest Zamówione status przy zapotrzebowaniu jest wyświetlany jako "Zamówione".
 <image>
@@ -77,4 +79,5 @@ todo Uprawnienia
 4. Gdy zapotrzebowanie jest Zamówione, Dostarczone oraz Opłacone status przy zapotrzebowaniu jest wyświetlany jako "Zrealizowane".
 <image>
 5. Składający zapotrzebowanie informowany jest drogą mailową o każdej zmianie statusu jego złożonego zapotrzebowania.
+
 ##### 5. Kontrola płatności
