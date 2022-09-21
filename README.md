@@ -22,8 +22,9 @@
        Następnie pobierane są dane użytkownika składającego zapotrzebowanie z konta Microsoft Office 365. Po potwierdzeniu, że dana osoba jest pracownikiem firmy następuje analiza produktów konkretnego zapotrzebowania i utworzenie ich na SharePoint'owej liście "Produkty Zapotrzebowania". W tym miejscu również następuje wyliczenie kosztu całkowitego zapotrzebowania. Po skompletowaniu wszystkich danych dotyczących wszystkich produktów z zapotrzebowania następuje sprawdzenie, czy koszt całkowity zapotrzebowania przekracza "maksymalny koszt dla przełożonego" - jest to zmienna, której wartość w każdej chwili można dostosować bezpośrednio przez uprawnione osoby z poziomu SharePoint'owej listy "dev_settings" i której zadanie polega na określeniu powyżej jakiej kwoty całkowitej zapotrzebowania, mail odnośnie decyzji akceptacji/odrzucenia powinien przyjść bezpośrednio do Prezesa lub do przełożonego danej osoby. W przypadku gdy dana osoba nie posiada przypisanego przełożonego za takowego uznaje się Prezesa. Następnie na SharePoint'owej liście "Składanie zapotrzebowania" tworzone jest zapotrzebowanie po utworzeniu którego wysyłany jest mail z potwierdzeniem do osoby składającej zapotrzebowanie oraz osobny do przełożonego o pojawieniu się nowego zapotrzebowania do rozpatrzenia. Równocześnie tworzony jest status umożliwiający podgląd obecnego stanu zapotrzebowania wyświetlany indywidualnie dla każdej osoby składającej w jej panelu Moje zapotrzebowania
 
    2. System powiadomień
-   3. Kontrola płatności 
-   todo
+   3. System statusów
+    
+      Przepływ uruchamiany jest w momencie modyfikacji zapotrzebowania na liście "Realizacja". Lista "Realizacja" wyświetlana jest tylko dla osób z działu Logistyki i wyświetlane są w niej zapotrzebowania uprzednio zaakceptowane, przypisane do osoby, która konkretnym działem się zajmuje. Przepływ sprawdza stan trzech kolumn listy "Realizacja": Zamówione, Dostarczone, Opłacone i w zależności od ich stanu zmieniany jest status na panelu "Moje zapotrzebowania". W sytuacji gdy Zapotrzebowanie jest Zamówione status zmienia się na "Zamówione", gdy Zapotrzebowanie jest  
    
    4. Realizacja
 
