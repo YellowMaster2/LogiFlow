@@ -24,7 +24,7 @@
    2. System powiadomień
    3. System statusów
     
-      Przepływ uruchamiany jest w momencie modyfikacji zapotrzebowania na liście "Realizacja". Lista "Realizacja" wyświetlana jest tylko dla osób z działu Logistyki i wyświetlane są w niej zapotrzebowania uprzednio zaakceptowane, przypisane do osoby, która konkretnym działem się zajmuje. Przepływ sprawdza stan trzech kolumn listy "Realizacja": Zamówione, Dostarczone, Opłacone i w zależności od ich stanu zmieniany jest status na panelu "Moje zapotrzebowania". W sytuacji gdy Zapotrzebowanie jest Zamówione status zmienia się na "Zamówione", gdy Zapotrzebowanie jest  
+      Przepływ uruchamiany jest w momencie modyfikacji zapotrzebowania na liście "Realizacja". Lista "Realizacja" wyświetlana jest tylko dla osób z działu Logistyki i wyświetlane są w niej zapotrzebowania uprzednio zaakceptowane, przypisane do osoby, która konkretnym działem się zajmuje. Przepływ sprawdza stan trzech kolumn listy "Realizacja": Zamówione, Dostarczone, Opłacone i w zależności od ich stanu zmieniany jest status na panelu "Moje zapotrzebowania". W sytuacji gdy zapotrzebowanie jest Zamówione status zmienia się na "Zamówione", gdy zapotrzebowanie jest Zamówione i Dostarczone status zmienia się na "Dostarczone", a gdy zapotrzebowanie jest Zamówione, Dostarczone i Opłacone wtedy status zmienia się na "Zrealizowane" i zapotrzebowanie trafia do Archiwizacji, aby Zrealizowane zapotrzebowania nie "zaśmiecały" listy osobom z działu Logistyki.  
    
    4. Realizacja
 
