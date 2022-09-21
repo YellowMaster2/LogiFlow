@@ -37,7 +37,7 @@
 todo Uprawnienia
 ## Instrukcja obsługi
 ##### 1. Składanie zapotrzebowania
-1. W celu złożenia zapotrzebowania należy wejść na stronę główną [Działu logistyki](https://evatronix.sharepoint.com/sites/Logistyka "Przejdź na stronę Działu logistyki"), a następnie wejść w "Moje zapotrzebowania.
+1. W celu złożenia zapotrzebowania należy wejść na stronę główną [Działu logistyki](https://evatronix.sharepoint.com/sites/Logistyka "Przejdź na stronę Działu logistyki"), a następnie wejść w "Moje zapotrzebowania".
 
 ![image](https://github.com/YellowMaster2/LogiFlow/blob/main/media/3.png?raw=true)
 
@@ -52,6 +52,29 @@ todo Uprawnienia
 4. Po zalogowaniu się na konto należy podążać za instrukcjami zawartymi w formularzu.
 5. Po wypełnieniu i wysłaniu formularza, na skrzynkę pocztową trafi e-mail z potwierdzeniem złożenia zapotrzebowania.
 
-##### 2. Akceptacja zapotrzebowania
-##### 3. Realizacja zapotrzebowania
-##### 4. Kontrola płatności
+##### 2. Akceptacja zapotrzebowania (przełożony)
+1. Aby zaakceptować złożone zapotrzebowanie należy wejść na listę "Składanie zapotrzebowania" na której wyświetlane są zapotrzebowania wymagające uwagi przełożonego.
+<image>
+2. Na liście wystarczy kliknąć na kolumne "Akceptacja" przy konkretnym zaapotrzebowaniu następnie przejść wiersz niżej aby stan mógł się zapisać. Po udanej akceptacji cały wiersz podświetla się na kolor zielony.
+<image>
+3. Po akceptacji do osoby składającej zapotrzebowanie przychodzi mail z informacją o pozytywnym rozpatrzeniu owego zapotrzebowania.
+##### 3. Realizacja zapotrzebowania (dział Logistyki)
+1. Po zaakceptowaniu zapotrzebowania tworzone jest ono na liście "Realizacja", gdzie wyświetlane są one osobom z działu Logistyki w zależności od tego jakim działem się zajmują.
+<image>
+2. Osoba z działu Logistyki ma do odznaczenia trzy etapy w zaakceptowanym zapotrzebowaniu: Zamówione, Dostarczone, Opłacone. Gdy zapotrzebowanie zostanie tylko Zamówione zaznacza kolumne Zamówione (zaznaczenie wiersza na kolor czerwony).
+<image>
+3. Gdy zapotrzebowanie zostanie Zamówione oraz Opłacone zaznaczamy kolumny Zamówione i Opłacone (zaznaczenie na kolor pomarańczowy).
+<image>
+4. Gdy zapotrzebowanie zostanie Zamówione, Opłacone i Dostarczone zaznaczamy kolumny Zamówione, Opłacone i Dostarczone (zaznaczenie na kolor zielony).
+<image>
+##### 4. Statusy
+1. Dostępne są poprzez wejście na stronie głównej [Działu logistyki](https://evatronix.sharepoint.com/sites/Logistyka "Przejdź na stronę Działu logistyki"), a następnie klikając w "Moje zapotrzebowania".
+<image>
+2. Gdy zapotrzebowanie jest Zamówione status przy zapotrzebowaniu jest wyświetlany jako "Zamówione".
+<image>
+3. Gdy zapotrzebowanie jest Zamówione oraz Dostarczone status przy zapotrzebowaniu jest wyświetlany jako "Dostarczone".
+<image>
+4. Gdy zapotrzebowanie jest Zamówione, Dostarczone oraz Opłacone status przy zapotrzebowaniu jest wyświetlany jako "Zrealizowane".
+<image>
+5. Składający zapotrzebowanie informowany jest drogą mailową o każdej zmianie statusu jego złożonego zapotrzebowania.
+##### 5. Kontrola płatności
