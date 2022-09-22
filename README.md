@@ -81,3 +81,4 @@ todo Uprawnienia
 5. Składający zapotrzebowanie informowany jest drogą mailową o każdej zmianie statusu jego złożonego zapotrzebowania.
 
 ##### 5. Kontrola płatności
+![image](https://media.giphy.com/media/TYlus7VAr9c4M/giphy.gif)
