@@ -1,7 +1,7 @@
 # Dokumentacja techniczna przepływu Działu Logistyki
 
 ## Przeznaczenie przepływu (po co powstał i skrótowy opis działania)
-![image](https://github.com/YellowMaster2/LogiFlow/blob/main/media/1.png?raw=true)
+![image](https://github.com/YellowMaster2/LogiFlow/blob/main/media/Z%C5%82%C3%B3%C5%BC%20zapotrzebowanie.gif?raw=true)
 
 
   Celem powstania przepływu jest zautomatyzowanie procesu składania zapotrzebowania w firmie. 
